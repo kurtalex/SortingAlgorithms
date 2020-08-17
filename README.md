@@ -5,6 +5,7 @@
 Сортировка выбором  
 Сортировка слиянием
 Сортировка Шелла  
+Быстрая сортировка  
 
 
 Examples of implementing sort algorithms in Python are shown here:  
@@ -12,4 +13,5 @@ Bubble sort
 Insertion sort  
 Selection sort  
 Merge sort  
-Shell sort
+Shell sort  
+Quick sort
